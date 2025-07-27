@@ -59,7 +59,7 @@ It demonstrates skills in HTML, CSS (Flexbox/Grid), and responsive design.
 git clone https://github.com/your-username/project-name.git
 
 
-# Vardouniotis Marios – [LinkedIn](https://linkedin.com/in/mariosvardou) | [GitHub](https://github.com/mariosvardou)
+      Vardouniotis Marios – [LinkedIn](https://linkedin.com/in/mariosvardou) | [GitHub](https://github.com/mariosvardou)
 
 
-This project is open source and available under the [MIT License](LICENSE).
+      This project is open source and available under the [MIT License](LICENSE).
