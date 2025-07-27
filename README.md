@@ -1,10 +1,10 @@
-## My Portfolio
+# My Portfolio
 
  A responsive portfolio website to showcase my web development projects.
 
 ---
 
- Overview
+ #Overview
 
 This project was built as part of my learning path toward becoming a full stack web developer.  
 It demonstrates skills in HTML, CSS (Flexbox/Grid), and responsive design.
