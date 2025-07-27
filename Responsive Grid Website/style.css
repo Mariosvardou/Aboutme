@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  background: #f9f9f9;
+  color: #333;
+}
+
+.grid-container {
+  display: grid;
+  min-height: 100vh;
+  grid-template-areas:
+    "header"
+    "nav"
+    "hero"
+    "about"
+    "projects"
+    "contact"
+    "footer";
+  grid-template-columns: 1fr;
+   grid-template-rows: auto auto 1fr auto;
+}
+
+header {
+  grid-area: header;
+  background: #333;
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.nav {
+  grid-area: nav;
+  background: #444;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+.hero {
+  grid-area: hero;
+  padding: 2rem;
+  text-align: center;
+  background: #e0e0e0;
+}
+
+a {
+  text-decoration: underline;    /* remove underline */
+  color: inherit;           /* inherit text color from parent */
+}
+
+a:visited {
+  color: inherit;           /* prevent purple color after visit */
+}
+
+
+
+.about,
+.projects,
+.contact {
+  padding: 2rem;
+}
+
+.projects .project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.card {
+  background: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.card h3 {
+  padding: 1rem;
+}
+
+.footer {
+  grid-area: footer;
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+/* Responsive Layout */
+@media (min-width: 768px) {
+  .grid-container {
+    grid-template-areas:
+      "header  header"
+      "nav     nav"
+      "hero    hero"
+      "about   about"
+      "projects projects"
+      "contact contact"
+      "footer  footer";
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .about,
+  .projects,
+  .contact {
+    grid-column: span 2;
+  }
+}
