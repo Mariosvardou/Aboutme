@@ -40,7 +40,7 @@ It demonstrates skills in HTML, CSS (Flexbox/Grid), and responsive design.
 
  # Live Demo
 
-[🔗 Click here to view it live](https://yourprojectlink.netlify.app)
+[Click here to view it live] (https://mariosvardou.github.io/my-portfolio/)
 
 
 
