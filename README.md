@@ -32,9 +32,8 @@ It demonstrates skills in HTML, CSS (Flexbox/Grid), and responsive design.
 
  # Demo / Screenshot
 
-![Project Screenshot](./images/portfolio.png)
+[Project Screenshot](./images/portfolio.png)
 
-*(Upload an image of your project in the root folder as `screenshot.png`)*
 
 ---
 
