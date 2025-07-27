@@ -4,14 +4,14 @@ My Portfolio
 
 ---
 
-## 🔍 Overview
+ Overview
 
 This project was built as part of my learning path toward becoming a full stack web developer.  
 It demonstrates skills in HTML, CSS (Flexbox/Grid), and responsive design.
 
 ---
 
-## 🚀 Features
+ Features
 
 - ✅ Fully responsive layout
 - ✅ Flexbox and CSS Grid usage
@@ -21,7 +21,7 @@ It demonstrates skills in HTML, CSS (Flexbox/Grid), and responsive design.
 
 ---
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - HTML5
 - CSS3 (Flexbox, Grid)
@@ -30,7 +30,7 @@ It demonstrates skills in HTML, CSS (Flexbox/Grid), and responsive design.
 
 ---
 
-## 📸 Demo / Screenshot
+ Demo / Screenshot
 
 ![Project Screenshot](./screenshot.png)
 
@@ -38,13 +38,12 @@ It demonstrates skills in HTML, CSS (Flexbox/Grid), and responsive design.
 
 ---
 
-## 🌐 Live Demo
+ Live Demo
 
 [🔗 Click here to view it live](https://yourprojectlink.netlify.app)
 
----
 
-## 🧠 What I Learned
+
 
 In this project I practiced:
 - Structuring web pages with semantic HTML
@@ -54,8 +53,11 @@ In this project I practiced:
 
 ---
 
-## 📁 How to Run Locally
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/project-name.git
+
+
+Vardouniotis Marios – [LinkedIn](https://linkedin.com/in/mariosvardou) | [GitHub](https://github.com/mariosvardou)
+
