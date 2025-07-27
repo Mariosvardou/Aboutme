@@ -61,3 +61,5 @@ git clone https://github.com/your-username/project-name.git
 
 Vardouniotis Marios – [LinkedIn](https://linkedin.com/in/mariosvardou) | [GitHub](https://github.com/mariosvardou)
 
+
+This project is open source and available under the [MIT License](LICENSE).
