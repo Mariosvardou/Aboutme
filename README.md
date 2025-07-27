@@ -1,4 +1,4 @@
-# My Portfolio
+## My Portfolio
 
  A responsive portfolio website to showcase my web development projects.
 
