@@ -31,10 +31,6 @@ A modern, fully responsive personal portfolio built with **React**, **Tailwind C
 ```bash
 # Clone the repo
 git clone https://github.com/your-username/react-portfolio.git
-cd react-portfolio
+```bash
 
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
+This project is open source and available under the MIT License.
