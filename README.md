@@ -28,7 +28,7 @@ A modern, fully responsive personal portfolio built with **React**, **Tailwind C
 
 ## 🚀 Getting Started
 
-```bash
+
 # Clone the repo
 git clone https://github.com/your-username/react-portfolio.git
 #
