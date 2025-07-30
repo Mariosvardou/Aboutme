@@ -27,7 +27,7 @@ A modern, fully responsive personal portfolio built with **React**, **Tailwind C
 ---
 
 Clone the repository:
- ```bash git clone https://github.com/your-username/project-name.git  ```bash
+ ```bash git clone https://github.com/your-username/project-name.git ```bash
 
 # Vardouniotis Marios  – [LinkedIn](https://linkedin.com/in/mariosvardou) | [GitHub](https://github.com/mariosvardou)
 
