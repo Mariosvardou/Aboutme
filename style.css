@@ -240,6 +240,10 @@ padding: 1rem;
   .hamburger {
     display: flex;
   }
+}
+
+@media (max-width: 768px) {
+
    .about {
     flex-direction: column;
     padding: 30px 5%;
@@ -253,6 +257,10 @@ padding: 1rem;
     font-size: 1rem;
   }
 }
+
+
+
+
 
 @keyframes myAnimation {
   from {
