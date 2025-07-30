@@ -22,7 +22,7 @@ A modern, fully responsive personal portfolio built with **React**, **Tailwind C
 - **Tailwind CSS** (v4.1)
 - **Framer Motion**
 - **React Icons**
-- (Optional: EmailJS / Formspree for contact form)
+
 
 ---
 
