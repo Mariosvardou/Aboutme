@@ -39,7 +39,7 @@ It demonstrates skills in HTML, CSS (Flexbox/Grid), and responsive design.
 
  # Live Demo
 
-[Click here to view it live] (https://mariosvardou.github.io/my-portfolio/)
+[Click here to view it live] (https://mariosvardou.github.io/my-portfolio/my-portfolio css-js)
 
 
 
